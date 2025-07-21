@@ -55,7 +55,7 @@ amazon-clone/
 │   └── ...
 └── README.mdx           # This README file
 
-![Logo](https://chatgpt.com/s/m_687e5e8197208191b3d1cf91ec19cc60)
+![image alt](https://github.com/arsalancoder1/amazon-webpage/blob/e6eed127c0a7ec669c5058726e31ee057f6c4b6c/Amazon%20Homepage%20with%20Product%20Highlights.png)
 
 
 ## 🔗 Links
